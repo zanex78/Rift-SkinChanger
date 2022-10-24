@@ -1,18 +1,18 @@
-Rift-SkinChanger
+<h1>Rift-SkinChanger</h1>
 This is a simple skinchager for the Fortnite project rift.
 You can find the discord under https://discord.gg/riftfn
 
-DISCLAMER:
+<h1>DISCLAMER:</h1>
 Understand that this project is NEVER going to be open source since I (zanexGHG) want to protect my code.
 If you don't trust me you can see the Virustotal scan down below.
 I DO NOT TAKE RESPONSE FOR ANY BANS OR ANYTHING. (just in case someone gets banned because of it I don't know.)
 
-How to use:
+<h1>How to use:</h1>
 To use it download Rift-SkinChanger.exe, double-click (You don't have to run it as admin!!!) and then wait for it to load, press enter,
 accept the cookies on the web panel I made for it, chose your skin, pickaxe, emotes, gliders, loading screens, music and trail and enjoy!!!
 (Banners will be added later on)
 
-Virustotal:
+<h1>Virustotal:</h1>
 If you don't trust the screenshot either you can just download the program as a zip and copy that into Virustotal.
 For those who are not familiar with all the different antivirus systems: The most trustable ones are BitDefender, Trendmicro,
 Kaspersky(I don't know if It's still trustable it has been proven as very good in the past), Malwarebytes and so on...
